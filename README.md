@@ -1,8 +1,8 @@
 CSE0001
 
-Name: Arpit Parmar
+Name: Rachit Chaubey
 
-Reg. No.: 25BAI11617
+Reg. No.: 25BAI10703
 
 Branch: Computer Science (AI&ML) Engineering
 
